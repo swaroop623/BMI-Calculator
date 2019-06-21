@@ -1,6 +1,9 @@
 # BMI-Calculator
 Body mass index (BMI) is a measure of body fat based on height and weight that applies to adult men and women. The result is used to determine if that individual is obese, overweight, normal weight or underweight depending on where they fall within the BMI category ranges.
 
+For help getting started with Flutter, view the online <a href="https://flutter.dev/">documentation</a>.
+
+
 ### Dependencies
  * font_awesome_flutter: ^8.4.0
 
@@ -12,6 +15,7 @@ Body mass index (BMI) is a measure of body fat based on height and weight that a
 
 ## License
 
+```
 MIT License
 
 Copyright (c) 2019 Swaroop Maddu
@@ -21,3 +25,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+```
